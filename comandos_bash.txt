@@ -1,0 +1,6 @@
+Ls -> parte inicial para visualizar o home
+Cd -> muda de diretório
+Pwd -> mostra o caminho onde está
+Ls -a -> mostra arquivos ocultos
+Cd .. -> volta para o diretório(pasta) acima
+Mkdir -> cria uma pasta nova 
