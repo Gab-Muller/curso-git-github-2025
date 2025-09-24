@@ -1,6 +1,36 @@
-Ls -> parte inicial para visualizar o home
-Cd -> muda de diretório
-Pwd -> mostra o caminho onde está
-Ls -a -> mostra arquivos ocultos
-Cd .. -> volta para o diretório(pasta) acima
-Mkdir -> cria uma pasta nova 
+ls -> parte inicial para visualizar o home
+cd -> muda de diretório
+pwd -> mostra o caminho onde está
+ls -a -> mostra arquivos ocultos
+cd .. -> volta para o diretório(pasta) acima
+mkdir xxx -> cria uma pasta nova 
+cat xxx -> mostra o conteúdo de um arquivo
+git init . -> tornar a pasta de especial
+rm -rf .git/ -> remove a pasta especial git
+git status -> mostra os saves dos documentos
+git add -> adicionar documentos que vão para o commit
+
+git commit -m “mensagem” -> commit um arquivo
+# todo check-point / commit precisa ser assinado por alguém
+git config –global user.email “XXXX” -> registra o e-mail adm
+git config –global user.name “XXXX” -> registra o nome do  adm
+⬆️ -> mostra o código anterior
+Nano -> edita e cria textos dentro do terminal
+Ctrl+O (nano) -> salva o texto criado
+Ctrl+X (nano) -> sair
+git log -> ver todos os saves
+. -> pasta atual
+.. -> pasta de cima
+“*” -> todos os arquivos
+
+## FLUXO DE TRABALHO:
+
+1.	Criar o diretório do projeto
+2.	Iniciar o git dentro do diretório criado (git init .)
+3.	Editar ou criar arquivos
+4.	Git status
+5.	Git add <nome do arquivo>
+6.	Git status
+7.	Git commit -m “mensagem”
+8.	Git status
+9.	Volta para o passo 3.
