@@ -1,0 +1,1 @@
+Esse doc se refere aos primeiros comandos git.
