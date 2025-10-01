@@ -1,7 +1,7 @@
 Novo Doc para corretora
 
-seguradoras -> bradesco / porto / sula
+Seguradoras -> bradesco / porto / sula
 
-operadoras -> gndi / amil / unimed
+Operadoras -> gndi / amil / unimed
 
-administradoras -> quali / tec / corp
+Administradoras -> quali / tec / corp
