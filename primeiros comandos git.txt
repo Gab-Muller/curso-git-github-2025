@@ -1,1 +1,6 @@
 Esse doc se refere aos primeiros comandos git.
+
+
+#comandos mais genéricos
+
+$$$
